@@ -1,0 +1,5 @@
+rootProject.name = 'eagle'
+include 'api'
+include 'db'
+include 'service'
+
